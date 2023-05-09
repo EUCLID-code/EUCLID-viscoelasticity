@@ -1,7 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%  Automated identification of linear viscoelastic constitutive laws    %%
 %%                           with EUCLID                                 %%
-%       Mechanics of Materials, Volume 181, June 2023, 104643             %  
+%       Mechanics of Materials, Volume 181, June 2023, 104643             %
+%            https://doi.org/10.1016/j.mechmat.2023.104643                %
 %             Preprint: https://arxiv.org/abs/2212.10969                  %
 %     Enzo Marino, Moritz Flaschel, Siddhant Kumar, Laura De Lorenzis     %
 %                                                                         %
@@ -11,8 +12,15 @@
 %                             Enzo Marino                                 %
 %                    University of Florence (Italy)                       %
 %                      email: enzo.marino@unifi.it                        %
-%                                                                         %  
+%                                                                         %
 %               -------------------------------------------               %
+%                                                                         %
+%              ________ ___  ___ _______ ___     ___ ______               %
+%             /  _____//  / /  //  ____//  /    /  //  _   \              %
+%            /  _____//  /_/  //  /___ /  /___ /  //  /_|  |              %
+%           /_______//_______//______//______//__//_______/               %
+% Efficient Unsupervised Constitutive Law Identification and Discovery    %
+% https://euclid-code.github.io/                                          %
 %                                                                         %
 %                                                                         %
 % Note: this code is not meant for professional use and it contains only  %
